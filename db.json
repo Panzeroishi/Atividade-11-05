@@ -1,0 +1,16 @@
+{
+    "Veiculos":[
+        {
+            "tipo":"Aéreo",
+            "Local":"Céu"
+        },
+        {
+            "tipo":"Terrestre",
+            "Local":"Chão"
+        },
+        {
+            "tipo":"Aquatico",
+            "Local":"Agua"
+        }
+    ]
+}
